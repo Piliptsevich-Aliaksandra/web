@@ -1,0 +1,17 @@
+.right {
+    position:absolute;
+}
+
+.m-l{
+    margin-left:1rem;
+}
+
+.line {
+    position:relative;
+}
+
+.error {
+    clear: both;
+    color: red;
+    font-size: 0.75rem;
+}
